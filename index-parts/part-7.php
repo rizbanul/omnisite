@@ -7,7 +7,7 @@
       <img class="d_sing_img" src="img/bitopi_logo.png" alt="brac">
     </div>
     <div class="col-6 col-sm-4 col-md-3">
-      <img class="d_sing_img" src="img/sunbeamslogo.png" alt="brac">
+      <img class="d_sing_img" src="img/anannya.ai" alt="brac">
     </div>
   </div>
 </div> -->
@@ -15,34 +15,38 @@
 <div class="owl-slider">
 <div id="carousel" class="owl-carousel">
 	<div class="item">
-		<img class="owl-lazy" data-src="https://i.pinimg.com/originals/84/67/26/846726299dc5abbeb5d60016f0fb32e9.jpg" alt="">
+		<img class="owl-lazy" data-src="img/10.png" alt="">
 	</div>
 	<div class="item">
-		<img class="owl-lazy" data-src="http://desktop-backgrounds-org.s3.amazonaws.com/400x300/twitter-nature-high-definition.jpg" alt="">
+		<img class="owl-lazy" data-src="img/1.png" alt="">
 	</div>
 	<div class="item">
-		<img class="owl-lazy" data-src="https://i.pinimg.com/originals/84/67/26/846726299dc5abbeb5d60016f0fb32e9.jpg" alt="">
+		<img class="owl-lazy" data-src="img/2.png" alt="">
 	</div>
 	<div class="item">
-		<img class="owl-lazy" data-src="http://desktop-backgrounds-org.s3.amazonaws.com/400x300/twitter-nature-high-definition.jpg" alt="">
+		<img class="owl-lazy" data-src="img/3.png" alt="">
 	</div>
   	<div class="item">
-		<img class="owl-lazy" data-src="https://i.pinimg.com/originals/84/67/26/846726299dc5abbeb5d60016f0fb32e9.jpg" alt="">
+		<img class="owl-lazy" data-src="img/4.png" alt="">
 	</div>
 	<div class="item">
-		<img class="owl-lazy" data-src="http://desktop-backgrounds-org.s3.amazonaws.com/400x300/twitter-nature-high-definition.jpg" alt="">
+		<img class="owl-lazy" data-src="img/5.png" alt="">
 	</div>
 	<div class="item">
-		<img class="owl-lazy" data-src="https://i.pinimg.com/originals/84/67/26/846726299dc5abbeb5d60016f0fb32e9.jpg" alt="">
+		<img class="owl-lazy" data-src="img/6.png" alt="">
 	</div>
 	<div class="item">
-		<img class="owl-lazy" data-src="http://desktop-backgrounds-org.s3.amazonaws.com/400x300/twitter-nature-high-definition.jpg" alt="">
+		<img class="owl-lazy" data-src="img/7.png" alt="">
+	</div>
+	<div class="item">
+		<img class="owl-lazy" data-src="img/8.png" alt="">
 	</div>
   	<div class="item">
-		<img class="owl-lazy" data-src="https://i.pinimg.com/originals/84/67/26/846726299dc5abbeb5d60016f0fb32e9.jpg" alt="">
+		<img class="owl-lazy" data-src="img/9.png" alt="">
 	</div>
 	<div class="item">
-		<img class="owl-lazy" data-src="http://desktop-backgrounds-org.s3.amazonaws.com/400x300/twitter-nature-high-definition.jpg" alt="">
-	</div>
+	<img class="owl-lazy" data-src="img/11.png" alt="">
+</div>
+
 </div>
 </div>
