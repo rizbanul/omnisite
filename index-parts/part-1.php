@@ -1,3 +1,4 @@
+<section class="o_home_section">
 <canvas id=c></canvas>
 <div class="o_home_logo_container">
     <div class="o_home_logo">
@@ -25,3 +26,4 @@
     </div>
   </div>
 </div>
+</section>
