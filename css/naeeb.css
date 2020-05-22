@@ -13,7 +13,7 @@
 {
 /*    border:2px solid blue;*/
     margin-left: 10%!important;
-    width:90%;!important;
+   
     margin-bottom: 5%;
 /*    border:2px solid red!important;*/
 
@@ -132,7 +132,7 @@
 /*CSS FOR TEAM MEMBER PHOTOS*----------------------------*/
 .n_fullTeam{
 /*    background-color: rgba(15,14,14,15);*/
-    background-image: url(../img/sadakaloagundilki.jpg);
+    background-image: url(../img/team/sadakaloagundilki.jpg);
     overflow-x: hidden;
     background-size: cover;
 /*    position: relative;*/
@@ -177,7 +177,7 @@
     color:white;
     font-weight: bold;
     position: absolute;
-    bottom: 20px;
+    bottom: 30px;
     left: 24px;
     font-size:14px;
     font-family:cursive;
@@ -187,13 +187,13 @@
 
 
 .pic2{
-    background-image: url(../img/tanimVai.jpg);
+    background-image: url(../img/team/tanimVai.jpg);
     background-size: cover;
     align-content: center;
     
 }
 .pic3{
-    background-image: url(../img/lizapu.jpg);
+    background-image: url(../img/team/lizapu.jpg);
     background-size: cover;
     align-content: center;
     margin-left: 50px;
@@ -211,13 +211,13 @@
     margin-left: 50px;
 }
 .pic6{
-    background-image: url(../img/mahdi.jpg);
+    background-image: url(../img/team/mahdi.jpg);
      background-size: cover;
     align-content: center;
 }
 
 .pic7{
-    background-image: url(../img/munzee.jpg);
+    background-image: url(../img/team/munzee.jpg);
      background-size: cover;
     align-content: center;
     margin-left: 50px;
@@ -230,19 +230,19 @@
     margin-left: 50px;
 }
 .pic9{
-    background-image: url(../img/nushrat.jpg);
+    background-image: url(../img/team/nushrat.jpg);
     background-size: cover;
     align-content: center;
     margin-left: 50px;
 }
 .pic10{
-    background-image: url(../img/riyad.jpg);
+    background-image: url(../img/team/riyad.jpg);
     background-size: cover;
     align-content: center;
     margin-left: 50px;
 }
 .pic11{
-    background-image: url(../img/dhrubo.jpg);
+    background-image: url(../img/team/dhrubo.jpg);
     background-size: cover;
     align-content: center;
     margin-left: 50px;
@@ -387,7 +387,7 @@
     height: 600px;
     margin: 5px auto;
     position: relative;
-    background-image: url(../img/white-paper-texture-hd.jpg);
+    background-image: url(../img/team/white-paper-texture-hd.jpg);
     background-repeat: repeat;
         border-radius: 5px;
 }
@@ -395,7 +395,7 @@
     width: 160px;
     height: 180px;
     margin: 0 auto;
-    background-image: url(../img/kristyApu.jpg);
+    background-image: url(../img/team/sonia.jpg);
     background-size: cover;
     padding-bottom: 30px;
     border-radius: 3px;
@@ -406,7 +406,7 @@
     width: 160px;
     height: 180px;
     margin: 0 auto;
-    background-image: url(../img/tanimBhai.jpg);
+    background-image: url(../img/team/tanimBhai.jpg);
     background-size: cover;
     padding-bottom: 30px;
     border-radius: 3px;
@@ -596,7 +596,7 @@
 
 .cont
     {
-        border:2px solid green;
+/*        border:2px solid green;*/
         
     }
 
@@ -604,5 +604,290 @@
 {
     height: 100vh;
 }
-/*----------------------PORTFOLIO CSS STARTS-----------/*
+/*----------------------PORTFOLIO CSS STARTS-----------*/
+.tatata
+{
+    border:2px solid green!important;
+    height:50%;
+}
+.n_portImageBFF {
+     width:140px;
+     height:160px;
+     object-fit: cover;
+     opacity: 2;
+   
+}
+ .n_portImageCI {
+   
+     opacity: 2;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 5%;
+     width: 80%;
+   
+}
+.n_portImageAnannya
+{
+     opacity: 2;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: -5%;
+     width: 50%;
+/*    border:2px solid red;*/
+}
 
+ .n_portImageJatrik {
+   
+     opacity: 2;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 5%;
+     width: 40%;
+   
+}
+.n_portImageTribune {
+    /* width:200px;
+     height:100px;
+     object-fit: cover;
+     */
+     opacity: 2;
+    /* border:1px solid yellow;
+    */
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 5%;
+     width: 60%;
+    background: white;
+    padding:2%;
+   
+}
+
+ .n_portImageH {
+   
+     opacity: 2;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 3%;
+     width: 40%;
+   
+}
+.n_less
+{
+   
+    margin-bottom: 5%;
+    margin-top: 3%;
+}
+
+.n_secondPart
+{
+    margin-top: 10%;
+/*    border: 2px solid red;*/
+}
+
+ .n_portImageUNDP {
+   
+     opacity: 2;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 2%;
+     width: 50%;
+    margin-bottom: 25%;
+}
+
+ 
+ .n_portImageWF {
+   
+     opacity: 2;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 2%;
+     width: 50%;
+     
+}
+
+/*
+.n_portImageCI {
+   
+     opacity: 2;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 5%;
+     width: 80%;
+   
+}
+*/
+
+ #n_portFont {
+     font-family: "Playfair Display",serif;
+     font-weight: 400;
+     font-size: 22px;
+     line-height: 34px;
+     color: white;
+     text-shadow: 4px 4px 8px #000000;
+     text-align: left;
+}
+ .n_listFont {
+     font-family: "Poppins",sans-serif;
+     font-size: 16px;
+     font-weight: 400;
+    /* line-height: 40px;
+    */
+     text-shadow: 2px 2px 4px #000000;
+     text-align: justify;
+}
+ .n_left1st {
+    /* border:2px solid green;
+    */
+     float: left;
+     margin-bottom: 3%;
+}
+ .n_right1st {
+    /* background-color: red;
+     */
+    /* height: 100%;
+     width:50%;
+     */
+     float: right;
+    /* border:2px solid black;
+    */
+    /* border:2px solid red;
+    */
+}
+ .n_portOver {
+    /* filter: brightness(1.2);
+    */
+     background-color:black;
+}
+ .deepskyblue {
+     height: 80vh!important;
+    ;
+    /* border:2px solid red;
+    */
+    /*background-color:#41B3A3;
+    */
+     background-color: #B00020;
+     background-color: #333536;
+    /* background-color:salmon;
+     background-color: rgb(247,72,1);
+     background-color: #00B6F1;
+     */
+    /* background-color:#41B3A3;
+    */
+    /* background-color: #00B6F1;
+    */
+}
+ .carousel-indicators {
+     bottom: 0;
+}
+ .carousel-control {
+     &.right, &.left {
+         background-image: none;
+    }
+}
+ .carousel .item {
+     min-height: 350px;
+     height: 100%;
+     width: 100%;
+}
+ .carousel-control {
+     position: absolute;
+     top: 0;
+     bottom: 0;
+     left: 0;
+     width: 5%;
+     font-size: 20px;
+     color: #dc3545;
+     color: darkred;
+     color:#B00020;
+     text-align: center;
+    /* text-shadow: 0 1px 2px rgba(0,0,0,.6);
+     */
+    /* filter: alpha(opacity=50);
+    */
+     opacity: 1;
+    /* background-color: red;
+    */
+    /* background-color: #41B3A3;
+     */
+}
+ .carousel-control:hover{
+     background-color:#41B3A3;
+     background-color:#B00020;
+     background-color: #1da1f2;
+     opacity: 0.5;
+}
+.carousel-caption
+/*
+{
+    border:2px solid red;
+}*/
+
+
+ .carousel-caption h3, .carousel .icon-container {
+     background-color: red;
+}
+/* .carousel-caption {
+     button {
+         background-color: #09c;
+    }
+     h3 {
+         padding: .5em;
+    }
+}
+ */
+ .carousel .icon-container {
+     display: inline-block;
+     font-size: 25px;
+     line-height: 25px;
+     padding: 1em;
+     text-align: center;
+     border-radius: 50%;
+}
+ .carousel-caption {
+    /* transform:scale(1.5);
+    */
+    /* border:2px solid blue;
+    */
+     right:5%;
+     left: 5%;
+     top:5%;
+     bottom:5%;
+    /* margin: 0 auto;
+    */
+}
+
+/* Make the image fully responsive */
+/*
+  .carousel-inner img {
+      width: 100%;
+      height: 100%;
+}
+*/
+/*
+ div {
+     &:first-child {
+         animation-delay:2s;
+    }
+     &:nth-child(2) {
+         animation-delay: 2s;
+    }
+}
+ button {
+     animation-delay: 3s;
+}undefined}undefined .n_test {
+ height: 500px;
+ background-color: skyblue;undefined}undefined .n_Portfolio {
+ margin-top: 5%;
+ margin-bottom: 5%;undefined}undefined
+*/
+
+
+/*----------------------PORTFOLIO CSS ENDS -----------------------------------------------*/

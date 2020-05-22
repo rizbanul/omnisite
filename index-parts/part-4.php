@@ -1,7 +1,4 @@
 
-<script src='https://kit.fontawesome.com/a076d05399.js'></script>
- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-
  <!-- SERVICE CONTAINER-->
 
 <!--FullService Container starts here-->
@@ -11,7 +8,7 @@
 <!--START OF FIRST ROW-->
     <div class="container-fluid row n_row">
 <!-- START OF CONTENT-->
-  <div class="cont col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+  <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-6">
   <button type="button" class="wow flipInX btn btn-primary n_serviceButton" data-toggle="modal" data-target="#myModal">
 <!--      <i style='font-size:32px' class="fas fa-pencil-alt"></i>-->
     <span class="fas fa-pencil-alt n_serTitle" style="font-size:32px"></span><br> <b class="n_serTitle">Content</b>
@@ -52,7 +49,7 @@
     </div><!-- END OF CONTENT-->
         
     <!-- START OF SOCIAL MEDIA-->
-  <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+  <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-6">
   <button type="button" class="wow flipInX btn btn-primary n_serviceButton" data-toggle="modal" data-target="#myModal1">
        <span class="far fa-thumbs-up n_serTitle" style="font-size:32px"></span><br> <b class="n_serTitle">Social Media</b>
     </button>
@@ -87,7 +84,7 @@
     </div><!-- END OF SOCIAL MEDIA-->
      
     <!-- START OF SOCIAL WEB & APP-->
-  <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+  <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-6">
   <button type="button" class="wow flipInX btn btn-primary n_serviceButton" data-toggle="modal" data-target="#myModal2">
       <span class="fas fa-laptop n_serTitle" style="font-size:32px"></span><br> <b class="n_serTitle">Web & App</b>
     </button>
@@ -125,9 +122,9 @@
 
 
 <!--START OF SECOND ROW-->
-       <div class="row n_row">
+       <div class="container-fluid row n_row">
 <!-- START OF DIGITAL MARKETING-->
-  <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+  <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-6">
   <button type="button" class="wow flipInX btn btn-primary n_serviceButton" data-toggle="modal" data-target="#myModal3">
     <span class="fas fa-chart-line n_serTitle" style="font-size:32px"></span><br><b class="n_serTitle">Digital Marketing</b>
     </button>
@@ -159,7 +156,7 @@
     </div><!-- END OF CONTENT-->
         
     <!-- START OF CREATIVE DESIGN-->
-  <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+  <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-6">
   <button type="button" class="wow flipInX btn btn-primary n_serviceButton" data-toggle="modal" data-target="#myModal4">
       <span class="fas fa-images n_serTitle" style="font-size:32px"></span><br> <b class="n_serTitle">Creative Design</b>
     </button>
@@ -198,7 +195,7 @@
     </div><!-- END OF SOCIAL MEDIA-->
      
     <!-- START OF SOCIAL WEB & APP-->
-  <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+  <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-6">
   <button type="button" class="wow flipInX btn btn-primary n_serviceButton" data-toggle="modal" data-target="#myModal5">
     <span class="fas fa-print n_serTitle" style="font-size:32px"></span><br> <b class="n_serTitle">Printing</b>
     </button>
