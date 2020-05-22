@@ -291,7 +291,7 @@ canvas {
   }
   
   .o_group_pic:hover .overlay {
-    height: 40%;
+    height: 30%;
   }
   
   .overlay h1 {
@@ -303,9 +303,10 @@ canvas {
   }
   .overlay p {
     color: white;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 400;
     margin-left: 60px;
+    margin-right: 60px;
   }
 
  /* Extra small devices (portrait phones, less than 576px) */
