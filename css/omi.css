@@ -309,6 +309,48 @@ canvas {
     margin-right: 60px;
   }
 
+
+/* Services Secction */
+.o_service_container{
+  width: 100%;
+  background-color: #0f0e0e;
+  padding-bottom: 5%;
+}
+.o_modal_button_wrapper{
+  text-align: center;
+}
+.o_modal_button{
+  width: 240px;
+  height: 180px;
+  background: none;
+  color: #ffffff;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 2px solid #ffffff;
+  border-radius: 20px;
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+.o_modal_button i{
+  font-size: 30px;
+}
+.o_modal_button:hover{
+  cursor: pointer;
+  background-color: #3c3c3c;
+}
+
+.o_modal_full{
+  background-color: #2d2b2b !important;
+  color: #ffffff !important;
+  padding-left: 20px;
+}
+.close span{
+  font-size: 30px;
+  color: #ffffff;
+}
+
+
+
  /* Extra small devices (portrait phones, less than 576px) */
 /* No media query since this is the default in Bootstrap */
 

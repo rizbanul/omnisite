@@ -1,4 +1,4 @@
-<div class="container-fluid no-padding">
+<div class="container-fluid no-padding" id="contacts">
   <p class="d_contact">Contacts</p>
   <div class="row no-padding">
     <div class="col-12 col-md-6 no-padding">

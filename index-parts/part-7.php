@@ -12,7 +12,7 @@
   </div>
 </div> -->
 <!-- partial:index.partial.html -->
-<p class="d_contact">clients</p>
+<p class="d_contact" id="clients">clients</p>
 <div class="owl-slider">
 <div id="carousel" class="owl-carousel">
 	<div class="item">

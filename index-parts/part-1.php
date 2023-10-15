@@ -15,12 +15,12 @@
     <div>
       <div>
         <ul>
-          <li><a href="#">Home</a></li>
-          <li><a href="#">Services</a></li>
-          <li><a href="#">About Us</a></li>
-          <li><a href="#">Team</a></li>
-          <li><a href="#">Clients</a></li>
-          <li><a href="#">Contacts</a></li>
+          <li><a href="https://omnispace.co/">Home</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#team">About Us</a></li>
+          <li><a href="#team">Team</a></li>
+          <li><a href="#clients">Clients</a></li>
+          <li><a href="#contacts">Contacts</a></li>
         </ul>
       </div>
     </div>

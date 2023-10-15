@@ -1,4 +1,4 @@
-<div class="o_group_pic clear-fix">
+<div class="o_group_pic clear-fix" id="team">
     <img src="images/group-pic.jpg" alt="">
     <div class="overlay">
         <h1>About us</h1>
